@@ -72,5 +72,3 @@ The final sprint was the creation of a No-SQL database to manage the user tasks 
 
 Click here for more information on [Sprint Three](https://williammedranogutshall.github.io/BigDawg.github.io/SprintThree).
 
-
-
